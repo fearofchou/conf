@@ -1,1 +1,4 @@
-test
+run bash or zsh to start new tmux config
+mv ./.vimrc ~/.vimrc
+
+
